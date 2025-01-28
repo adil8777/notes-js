@@ -18,6 +18,10 @@ console.log(logic5);
 const logic6 = false || false
 console.log(logic6);
 
+//Example 3
+const logic7 = (2<1) && (7 > 5)
+console.log(!logic7);
+
 //maths example
 let x = (2 > 4) && (6<4)
 console.log(x);
