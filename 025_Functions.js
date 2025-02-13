@@ -73,3 +73,14 @@ function reverse() {
 }
 
 reverse()
+
+// Question Table of 5
+function table() {
+    const table = 5
+    for (let i = 1; i <= 10; i++) {
+        console.log(`${table} * ${i} = ${i * table}`);
+    }
+
+}
+
+table()
